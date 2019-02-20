@@ -3,7 +3,7 @@
 const axios = require('axios');
 
 module.exports = {
-    getAccissibilityScore: (a,b) => {
+    getAccessibilityScore: (a,b) => {
         axios.get('http://proserver.gometro.co.za/api/v1/accessibility/'+a+'/'+b+'/800/')
         .then((response)=>{
             return response.data.accessibilityScore;

@@ -1,6 +1,6 @@
-## Cape Town Public Transport Accissibility
+## Cape Town Public Transport Accessibility
 
-This package helps determine how accissible a location is to public transport routes.
+This package helps determine how accessible a location is to public transport routes.
 
 The score is from 0 to 100. 
 
