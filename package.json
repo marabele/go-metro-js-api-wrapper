@@ -1,6 +1,6 @@
 {
   "name": "cape-transport-accessibility",
-  "version": "0",
+  "version": "0.1.0",
   "description": "Helps retrieve how accessible location is to transport routes",
   "main": "index.js",
   "author": "Luxolo Mbaleni",
