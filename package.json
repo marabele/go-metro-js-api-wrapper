@@ -1,0 +1,11 @@
+{
+  "name": "cape-transport-accessibility",
+  "version": "0",
+  "description": "Helps retrieve how accissible location is to transport routes",
+  "main": "index.js",
+  "author": "Luxolo Mbaleni",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
